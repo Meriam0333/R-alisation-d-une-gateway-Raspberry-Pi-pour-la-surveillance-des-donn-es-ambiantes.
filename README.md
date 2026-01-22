@@ -40,5 +40,4 @@ Remarques :
 - Les timestamps sont en UTC+1.
 - Les push dans Firebase permettent de garder un historique continu.
 
-Rapport du projet : 
 
