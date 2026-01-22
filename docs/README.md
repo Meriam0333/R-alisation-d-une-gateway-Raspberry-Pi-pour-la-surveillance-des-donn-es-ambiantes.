@@ -1,4 +1,4 @@
-# Documentation du projet
+# Présentation du projet
 
 Cette section contient les documents liés au projet.
 
